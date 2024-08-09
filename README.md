@@ -50,8 +50,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-prometheus&show_icons=true&locale=en&layout=compact" alt="g-prometheus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-prometheus&show_icons=true&locale=en&layout=compact&theme=dark" alt="g-prometheus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-prometheus&show_icons=true&locale=en" alt="g-prometheus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-prometheus&show_icons=true&locale=en&theme=dark" alt="g-prometheus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-prometheus&" alt="g-prometheus" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g-prometheus&theme=dark" alt="g-prometheus" /></p>
+
